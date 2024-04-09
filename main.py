@@ -3,7 +3,7 @@ import openai
 import trafilatura
 
 
-st.title(':blue[Polysight]')
+st.title(':blue[Polysight]' + " [Website still being worked on]")
 
 url = st.text_input('Enter URL')
 
