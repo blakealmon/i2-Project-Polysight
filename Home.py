@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon="👋",
 )
 
-st.title(':blue[Polysight]' + " [Website still being worked on]")
+st.title(':blue[Polysight]')
 
 url = st.text_input('Enter URL - Takes some time (Make sure to press enter)')
 
