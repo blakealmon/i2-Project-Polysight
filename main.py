@@ -34,3 +34,11 @@ else:
 
     x = "" + response.choices[0].message.content
     st.write(x)
+
+
+
+
+st.write(":blue[Project was made by Blake Almon for i2]")
+
+url = "https://github.com/blakealmon"
+st.write("Github : [link](%s)" % url)
