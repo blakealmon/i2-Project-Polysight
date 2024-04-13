@@ -5,4 +5,6 @@ st.set_page_config(
 )
 
 st.write(":blue[Project was made by Blake Almon for i2]")
-st.write("Project was made by Blake Almon")
+
+url = "https://github.com/blakealmon"
+st.write("Github : [link](%s)" % url)
