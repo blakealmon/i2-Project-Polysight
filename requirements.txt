@@ -1,3 +1,4 @@
-streamlit==1.33.0
-openai==0.27.8
 trafilatura==1.8.1
+openai==0.27.8
+python-dotenv==0.21.1
+streamlit==1.33.0
